@@ -91,7 +91,7 @@ main {
   padding: 30px 10px 40px 10px;
 }
 
-h3 {
+main h3 {
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 20px;
   font-weight: 700;
@@ -114,6 +114,24 @@ h3 {
   box-sizing: border-box;
 }
 
+footer {
+  background-color: black;
+  color: white;
+  padding: 30px 15px 30px 15px;
+}
+
+footer h3 {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+footer a {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+}
 
 
 /* ====================================
