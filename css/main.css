@@ -49,6 +49,57 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+
+.recipe-article {
+  text-align: center;
+  margin: 20px 0 30px 0;
+}
+
+.information {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 0 120px 20px 120px;
+}
+
+.recipe {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.recipe-text {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 16px;
+  line-height: 1.2;
+  margin: 17px 0 0 0 ;
+}
+
+.cook {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 17px 0 0 0;
+}
+
+main {
+  background-color: #ebede8;
+  padding: 20px 10px 20px 10px;
+}
+
+h3 {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.2;
+  border-bottom: 2px solid black;
+}
+
+
 /* ====================================
 // base rules
 // ==================================== */
