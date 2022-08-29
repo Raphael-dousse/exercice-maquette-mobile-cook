@@ -88,7 +88,7 @@ nav {
 
 main {
   background-color: #ebede8;
-  padding: 20px 10px 20px 10px;
+  padding: 30px 10px 20px 10px;
 }
 
 h3 {
@@ -98,6 +98,21 @@ h3 {
   line-height: 1.2;
   border-bottom: 2px solid black;
 }
+
+.others-recipes p{
+  background-color: white;
+  text-align: center;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 20px;
+  line-height: 1.2;
+  padding: 20px 10px 20px 10px;
+}
+
+.others-recipes img {
+  margin-top: 10px;
+}
+
+
 
 
 /* ====================================
